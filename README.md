@@ -1,6 +1,7 @@
-#### Developed by LUBINDHER S
-#### Register no: 212222240056
-#### Date:
+#### Developed by Abhishek kannan M
+#### Register no: 21222404007
+#### Date:15/4/25
+
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
 ### AIM:
